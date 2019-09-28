@@ -18,9 +18,9 @@
        <!-- <property name="driverClassName" value="org.postgresql.Driver"/>-->
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
       <!--  <property name="url" value="jdbc:postgresql://localhost:5432/BOOKMANAGER"/>-->
-        <property name="url" value="jdbc:mysql://eu-cdbr-west-02.cleardb.net:3306/heroku_0fca7f34c2d4e46"/>
-        <property name="username" value="bad06d06a5b443"/>
-        <property name="password" value="0316f721"/>
+        <property name="url" value="jdbc:mysql://us-cdbr-iron-east-02.cleardb.net:3306/heroku_ef20c392a0bb0a2"/>
+        <property name="username" value="be52141820711e"/>
+        <property name="password" value="2c6c76f0"/>
     </bean>
 
     <!-- Hibernate 4 SessionFactory Bean definition -->
