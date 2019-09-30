@@ -1,6 +1,6 @@
-package net.proselyte.bookmanager.dao;
+package com.heroku.my_book_manage.dao;
 
-import net.proselyte.bookmanager.model.Book;
+import com.heroku.my_book_manage.model.Book;
 
 import java.util.List;
 

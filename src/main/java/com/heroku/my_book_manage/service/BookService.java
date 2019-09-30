@@ -1,7 +1,5 @@
-package net.proselyte.bookmanager.service;
-
-import net.proselyte.bookmanager.model.Book;
-
+package com.heroku.my_book_manage.service;
+import com.heroku.my_book_manage.model.Book;
 import java.util.List;
 
 public interface BookService {
