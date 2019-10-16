@@ -1,4 +1,4 @@
-# my-book-manager
+# Application my-book-manager with Spring and Hibernate
 This application can help you find a book, that you are looking for. Click the reference below.  Sometimes this app works slowly and throw mistake HTTP Status 500 – Internal Server Error, becouse it is free hosting and produce very slowly query to database. It is ok, just wait or click restart.
 ---
 
